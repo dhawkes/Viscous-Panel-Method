@@ -213,6 +213,7 @@ POIx = [mid(lminp,1) mid(stag,1) mid(uminp+stag,1)];
 POIy = [mid(lminp,2) mid(stag,2) mid(uminp+stag,2)];
 scatter(POIx, POIy);
 axis equal; xlabel('x/c'); ylabel('y/c');
+title('Boundary Layer and Minimum Pressure Points');
 legend('Airfoil', 'Boundary Layer', 'Points of Interest');
 
 %% Reapply Panel Method %%

@@ -1,2 +1,3 @@
 # Viscous-Panel-Method
-Code that uses a version of the vortex panel method to perform analysis on arbitrary airfoils
+
+Please see [https://www.seas.upenn.edu/~dhawkes/viscous-panel-method/] for more information about this repository.
